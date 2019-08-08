@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="translationY">350dp</dimen>
-    <dimen name="appNameSize">45dp</dimen>
+    <dimen name="gameBtnSize">38dp</dimen>
+    <dimen name="numberSize">30sp</dimen>
+    <dimen name="appNameSize">45sp</dimen>
     <dimen name="text1Size">15sp</dimen>
     <dimen name="text2Size">18sp</dimen>
 

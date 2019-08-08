@@ -1,9 +1,19 @@
 <resources>
     <string name="app_name">2048</string>
+    <string name="startBtn">start</string>
     <string name="btn1">0</string>
-    <string name="btn2"></string>
+    <string name="agreeBtn">YES</string>
+    <string name="disagreeBtn">NO</string>
+    <string name="scoreView">Score</string>
+    <string name="bestView">Best</string>
+    <string name="resetBtn">Reset</string>
     <string name="text1">Join the numbers and get to the </string>
     <string name="text2"> 2048 title!</string>
     <string name="text3">RESTART</string>
     <string name="text4">UNDO</string>
+    <string name="gameOver">Game Over</string>
+    <string name="gameWin">You WON!</string>
+    <string name="resetText">Delete your best score?</string>
+
+    <string name="version">release v1.0</string>
 </resources>
