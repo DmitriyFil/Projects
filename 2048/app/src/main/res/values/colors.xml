@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yelow">#FFEB3B</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="btnColor">#cdc1b5</color>
+    <color name="gameBoard">#bbada0</color>
+    <color name="invisibleGameBoard">#00BBADA0</color>
+    <color name="invisibleColor">#00FFFFFF</color>
+    <color name="restart">#fe8205</color>
+    <color name="bg">#fbf8ef</color>
+    <color name="title">#776e65</color>
+    <color name="str2">#656565</color>
+
+    <color name="t2">#FFF5ED</color>
+    <color name="t4">#FFC49A</color>
+    <color name="t8">#FFB27D</color>
+    <color name="t16">#FF9445</color>
+    <color name="t32">#FF8622</color>
+    <color name="t64">#FF7703</color>
+    <color name="t128">#FFF298</color>
+    <color name="t256">#FDE45D</color>
+    <color name="t512">#FFDD00</color>
+    <color name="t1024">#FF4A4A</color>
+    <color name="t2048">#FF0000</color>
+</resources>

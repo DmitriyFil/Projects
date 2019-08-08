@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="btn1">0</string>
+    <string name="btn2"></string>
+    <string name="text1">Join the numbers and get to the </string>
+    <string name="text2"> 2048 title!</string>
+    <string name="text3">RESTART</string>
+    <string name="text4">UNDO</string>
+</resources>
