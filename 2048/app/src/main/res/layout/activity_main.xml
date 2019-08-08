@@ -8,10 +8,9 @@
         tools:context=".MainActivity"
         android:id="@+id/constraintLayout"
         android:orientation="vertical"
-        android:background="#B2FF59"
 >
     <LinearLayout
-            android:background="#FFD300"
+            android:background="@color/bg"
             android:layout_marginRight="5dp"
             android:layout_marginLeft="5dp"
             android:layout_marginTop="5dp"
